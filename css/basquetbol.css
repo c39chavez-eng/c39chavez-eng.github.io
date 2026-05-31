@@ -1,8 +1,8 @@
-
-body{background: url("../imagenes/imagenpx.jpg");
+body{background: url("../imagenes/basquet.jpg");
 background-repeat: no-repeat;
 background-position:center;
 background-attachment:fixed;
+}
 
 
 
@@ -31,25 +31,27 @@ color: #050005;
 
 
 
-}
+
+
+
+
 
 
 h1{
 
-color:purple;
+color:rgb(0, 255, 0);
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
 }
 
 
 p{
-color:rgb(247, 0, 0);
+color:rgba(201, 6, 6, 0.932);
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
-
-
-
 }
+
+
 
 
 img{
@@ -58,7 +60,6 @@ width:350px;
 height: 250px;
 margin: 250px;
 border: radius 50px;
-border:10px solid #F527EE
+border:10px solid #db6313
 }
-
 

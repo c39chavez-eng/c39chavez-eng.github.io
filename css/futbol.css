@@ -1,9 +1,8 @@
-
-body{background: url("../imagenes/imagenpx.jpg");
+body{background: url("../imagenes/17cr.jpg");
 background-repeat: no-repeat;
 background-position:center;
 background-attachment:fixed;
-
+}
 
 
 div{width: 75%;
@@ -31,24 +30,18 @@ color: #050005;
 
 
 
-}
-
-
 h1{
 
-color:purple;
+color:yellow;
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
 }
 
 
 p{
-color:rgb(247, 0, 0);
+color:rgb(255, 153, 0);
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
-
-
-
 }
 
 
@@ -58,7 +51,6 @@ width:350px;
 height: 250px;
 margin: 250px;
 border: radius 50px;
-border:10px solid #F527EE
+border:10px solid #00fc15
 }
-
 
